@@ -18,7 +18,7 @@ Identify high-performing campaigns, evaluate marketing spend efficiency, and det
 
 Script | Output
 :---: | :---:
-![Subtask 1.1 Script](docs/1.png) | ![Subtask 1.1 Output](docs/2.png)
+![Subtask 1.1 Script](doc/1.png) | ![Subtask 1.1 Output](doc/2.png)
 
 ---
 
@@ -27,7 +27,7 @@ Script | Output
 
 Script | Output
 :---: | :---:
-![Subtask 1.2 Script](docs/3.png) | ![Subtask 1.2 Output](docs/4.png)
+![Subtask 1.2 Script](doc/3.png) | ![Subtask 1.2 Output](doc/4.png)
 
 ---
 
@@ -36,7 +36,7 @@ Script | Output
 
 Script | Output
 :---: | :---:
-![Subtask 1.3 Script](docs/5.png) | ![Subtask 1.3 Output](docs/6.png)
+![Subtask 1.3 Script](doc/5.png) | ![Subtask 1.3 Output](doc/6.png)
 
 ---
 
@@ -45,7 +45,7 @@ Script | Output
 
 Script | Output
 :---: | :---:
-![Subtask 1.4 Script](docs/7.png) | ![Subtask 1.4 Output](docs/8.png)
+![Subtask 1.4 Script](doc/7.png) | ![Subtask 1.4 Output](doc/8.png)
 
 ---
 
@@ -54,7 +54,7 @@ Script | Output
 
 Script | Output
 :---: | :---:
-![Subtask 1.5 Script](docs/9.png) | ![Subtask 1.5 Output](docs/10.png)
+![Subtask 1.5 Script](doc/9.png) | ![Subtask 1.5 Output](doc/10.png)
 
 ---
 
@@ -71,7 +71,7 @@ Prepare a clean, well-structured GA4 dataset for integration into BI dashboards,
 **Visuals:**
 Script | Output
 :---: | :---:
-![Task 2 Script](docs/11.png) | ![Task 2 Output](docs/12.png)
+![Task 2 Script](doc/11.png) | ![Task 2 Output](doc/12.png)
 
 ---
 
@@ -89,7 +89,7 @@ Calculate conversion rates from session start to various funnel stages by date a
 **Visuals:**
 Script | Output
 :---: | :---:
-![Task 3 Script](docs/13.png) | ![Task 3 Output](docs/14.png)
+![Task 3 Script](doc/13.png) | ![Task 3 Output](doc/14.png)
 
 ---
 
@@ -109,7 +109,7 @@ Evaluate the effectiveness of different landing pages in driving purchases.
 **Visuals:**
 Script | Output
 :---: | :---:
-![Task 4 Script](docs/15.png) | ![Task 4 Output](docs/16.png)
+![Task 4 Script](doc/15.png) | ![Task 4 Output](doc/16.png)
 
 ---
 
@@ -129,7 +129,7 @@ Investigate whether user engagement metrics can be predictive of purchase behavi
 **Visuals:**
 Script | Output
 :---: | :---:
-![Task 5 Script](docs/17.png) | ![Task 5 Output](docs/18.png)
+![Task 5 Script](doc/17.png) | ![Task 5 Output](doc/18.png)
 
 ---
 
