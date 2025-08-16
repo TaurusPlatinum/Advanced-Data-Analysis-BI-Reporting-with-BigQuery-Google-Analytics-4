@@ -11,17 +11,50 @@ The focus is on deriving actionable insights from marketing and web analytics da
 **Business Objective:**  
 Identify high-performing campaigns, evaluate marketing spend efficiency, and detect audience engagement trends across Google and Facebook.
 
-**Key Analysis Points:**
-- Aggregated daily spend statistics (mean, max, min) for Google & Facebook campaigns separately.
-- Top-5 days by overall ROMI.
-- Campaign with the highest total weekly value (with week number).
-- Campaign with the largest month-to-month reach growth.
-- *(Optional)* Longest continuous adset_name run across platforms.
+---
 
-**Visuals:**
+### Subtask 1.1 — Aggregated Spend Metrics
+**Goal:** Calculate mean, max, and min daily spend for Google & Facebook campaigns separately.
+
 Script | Output
 :---: | :---:
-![Task 1 Script](docs/img1.png) | ![Task 1 Output](docs/img2.png)
+![Subtask 1.1 Script](docs/img1.png) | ![Subtask 1.1 Output](docs/img2.png)
+
+---
+
+### Subtask 1.2 — Top-5 Days by ROMI
+**Goal:** Identify the five days with the highest Return on Marketing Investment (ROMI) across all platforms.
+
+Script | Output
+:---: | :---:
+![Subtask 1.2 Script](docs/img3.png) | ![Subtask 1.2 Output](docs/img4.png)
+
+---
+
+### Subtask 1.3 — Highest Weekly Total Value
+**Goal:** Determine the campaign with the highest total value in a single week, including the week number.
+
+Script | Output
+:---: | :---:
+![Subtask 1.3 Script](docs/img5.png) | ![Subtask 1.3 Output](docs/img6.png)
+
+---
+
+### Subtask 1.4 — Largest Month-to-Month Reach Growth
+**Goal:** Find the campaign with the largest audience reach increase month-over-month.
+
+Script | Output
+:---: | :---:
+![Subtask 1.4 Script](docs/img7.png) | ![Subtask 1.4 Output](docs/img8.png)
+
+---
+
+### Subtask 1.5 — Longest Continuous Ad Display *(Optional)*
+**Goal:** Identify the adset_name with the longest uninterrupted daily display across Google and Facebook.
+
+Script | Output
+:---: | :---:
+![Subtask 1.5 Script](docs/img9.png) | ![Subtask 1.5 Output](docs/img10.png)
 
 ---
 
@@ -38,7 +71,7 @@ Prepare a clean, well-structured GA4 dataset for integration into BI dashboards,
 **Visuals:**
 Script | Output
 :---: | :---:
-![Task 2 Script](docs/img3.png) | ![Task 2 Output](docs/img4.png)
+![Task 2 Script](docs/img11.png) | ![Task 2 Output](docs/img12.png)
 
 ---
 
@@ -56,7 +89,7 @@ Calculate conversion rates from session start to various funnel stages by date a
 **Visuals:**
 Script | Output
 :---: | :---:
-![Task 3 Script](docs/img5.png) | ![Task 3 Output](docs/img6.png)
+![Task 3 Script](docs/img13.png) | ![Task 3 Output](docs/img14.png)
 
 ---
 
@@ -76,7 +109,7 @@ Evaluate the effectiveness of different landing pages in driving purchases.
 **Visuals:**
 Script | Output
 :---: | :---:
-![Task 4 Script](docs/img7.png) | ![Task 4 Output](docs/img8.png)
+![Task 4 Script](docs/img15.png) | ![Task 4 Output](docs/img16.png)
 
 ---
 
@@ -96,7 +129,7 @@ Investigate whether user engagement metrics can be predictive of purchase behavi
 **Visuals:**
 Script | Output
 :---: | :---:
-![Task 5 Script](docs/img9.png) | ![Task 5 Output](docs/img10.png)
+![Task 5 Script](docs/img17.png) | ![Task 5 Output](docs/img18.png)
 
 ---
 
@@ -113,5 +146,3 @@ Script | Output
 - **Funnel Analysis:** Measured drop-offs at each stage of the purchase funnel.
 - **Landing Page Insights:** Highlighted which pages convert best, informing A/B testing strategies.
 - **Engagement Analysis:** Evaluated the link between engagement and purchases, contributing to user retention strategies.
-
----
